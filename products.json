@@ -1,0 +1,9 @@
+{
+    "_id": "1",
+    "name": "Levis Pants",
+    "description": "Tattered pants",
+    "price": 1000,
+    "stocks": 10,
+    "isActive": true,
+    "sku": "UGG-BB-PUR-06"
+}

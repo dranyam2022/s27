@@ -1,0 +1,9 @@
+{
+    "_id": "1",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "john_smith@gmail.com",
+    "password": "randompass1",
+    "isAdmin": false,
+    "mobileNumber": "0911234789"
+}
